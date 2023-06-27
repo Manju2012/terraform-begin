@@ -5,6 +5,9 @@
 *.tfstate
 *.tfstate.*
 
+# GCP service account keys
+keys.json
+
 # Crash log files
 crash.log
 crash.*.log
